@@ -5,7 +5,7 @@ import android.content.Context;
 import android.content.Intent;
 
 /**
- * Starts {@link HomeActivity} after the app APK is updated.
+ * Starts {@link KioskActivity} after the app APK is updated.
  */
 public class MyPackageReplacedEventReceiver extends BroadcastReceiver {
     @Override
